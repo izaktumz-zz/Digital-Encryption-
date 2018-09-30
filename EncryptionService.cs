@@ -14,6 +14,7 @@ namespace EncryptionLib
         /// <returns></returns>
         public EncryptionModel EncryptData(string data)
         {
+
             using (SymmetricAlgorithm alg=new AesManaged())
             {
                 ICryptoTransform encryptor = alg.CreateEncryptor(alg.Key, alg.IV);
