@@ -1,28 +1,28 @@
 # DigitalEncryption
 A .Net lightweight library for encryption and decryption of data 
 
-#Usage
+# Usage
 -------
 -Use the Nuget Manager to locate and install the package i.e.
 
 Install-Package DigitalEncryption.Utility
 
-#Methods
+# ethods
 ----------
 -The main class that implements the encryption and decryption services is called EncryptionService
 
 -It contains methods to encrypt and decrypt data
 
-#Implementation
+# Implementation
 ----------------
 
-#instantiate the class
+# instantiate the class
 ------------------------
 
 var encryptionService=new EncryptionService();//instantiate the class
 
 
-#Encryption
+# Encryption
 ------------
 var encryptedData=encryptionService.EncryptData("data to encrypt")
 
@@ -32,7 +32,7 @@ var encryptedData=encryptionService.EncryptData("data to encrypt")
 
 -Save the above for later use.
 
-#Decryption
+# Decryption
 ------------
 var decryptedData=encryptionService.DecryptData({encryptedData.EncryptedMessage} ,{encryptedData.Key}, {encryptedData.IV)}
 
