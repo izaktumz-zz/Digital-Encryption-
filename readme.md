@@ -7,7 +7,7 @@ A .Net lightweight library for encryption and decryption of data
 
 Install-Package DigitalEncryption.Utility
 
-# ethods
+# Methods
 ----------
 -The main class that implements the encryption and decryption services is called EncryptionService
 
