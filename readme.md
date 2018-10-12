@@ -15,14 +15,10 @@ Install-Package DigitalEncryption.Utility
 
 # Implementation
 ----------------
-
-# Namespace
-------------
-->using EncryptionLib
+Namespace-------->using EncryptionLib
 
 # instantiate the class
 ------------------------
-
 var encryptionService=new EncryptionService();//instantiate the class
 
 
