@@ -16,6 +16,10 @@ Install-Package DigitalEncryption.Utility
 # Implementation
 ----------------
 
+# Namespace
+------------
+->using EncryptionLib
+
 # instantiate the class
 ------------------------
 
