@@ -1,5 +1,5 @@
 # DigitalEncryption
-A .Net lightweight library for encryption and decryption of data i.e. passwords
+A .Net lightweight library for encryption and decryption of data 
 
 # Usage
 -------
