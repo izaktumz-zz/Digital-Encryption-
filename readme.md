@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/OpenDevProjects/Digital-Encryption-/_apis/build/status/geoftums.Digital-Encryption-)](https://dev.azure.com/OpenDevProjects/Digital-Encryption-/_build/latest?definitionId=3)
+
 # DigitalEncryption
 A .Net lightweight library for encryption and decryption of data 
 
